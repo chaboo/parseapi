@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  devise_type: MyString
+  obj_id: MyString
+  instrallation_id: 1
+  device_token: MyString
+  channels: 
+
+two:
+  devise_type: MyString
+  obj_id: MyString
+  instrallation_id: 1
+  device_token: MyString
+  channels: 
